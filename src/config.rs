@@ -169,7 +169,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.anzo.host"];
-pub const RS_PUB_KEY: &str = "9JSPJFldIl2chV3TrtCVCNkUntSZNZENywUOPdnarUHTJFjYL1WUEFjQFNWR4JiOikXZrJCLiIiOikGchJCLiIiOikXYsVmciwiI0N3bo5yb65WYus2clRGdzVnciojI0N3boJye";
+pub const RS_PUB_KEY: &str = "xEcEB1DQmKb1ILu+jwO9L24FMe+gRCBT+kOuasiHvQI=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
